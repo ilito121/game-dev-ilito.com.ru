@@ -1,2 +1,2 @@
-# game-dev-ilito.com.ru
+# Galabtic Raiders
 Я создаю игры на многих языках / I create games in many languages.
